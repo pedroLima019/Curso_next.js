@@ -20,10 +20,10 @@ export default function Home() {
         </div>
 
         <div className="w-full flex justify-center items-center space-x-5">
-          <span className="bg-zinc-900 p-3 w-[200px]  rounded-2xl text-white text-center hover:bg-zinc-800 duration-300 transition-all">
+          <span className="bg-zinc-900 p-3 w-[200px] text-xs md:text-sm rounded-2xl text-white text-center hover:bg-zinc-800 duration-300 transition-all">
             +5mil posts
           </span>
-          <span className="bg-zinc-900 p-3 w-[200px]  rounded-2xl text-white text-center  hover:bg-zinc-800 duration-300 transition-all">
+          <span className="bg-zinc-900 p-3 w-[200px] text-xs md:text-sm  rounded-2xl text-white text-center  hover:bg-zinc-800 duration-300 transition-all">
             +10mil comentários
           </span>
         </div>
